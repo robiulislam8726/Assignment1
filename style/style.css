@@ -1,0 +1,68 @@
+
+.banner{
+    height: auto;
+    position: relative;
+    width: 800px;
+}
+.banner img{
+    width: 100%;
+    display: block;
+}
+.happy-text{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    font-size: 20px;
+    color: white;
+ 
+}
+.new-year-text{
+   text-align: center;
+    top: 15px;
+    left: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+Offer Releted Style */
+.offer{
+    display: flex;
+   
+}
+
+
+/*Gift image style*/
+.gift-image{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/*footer item desiagn*/
+ .footer-details{
+    background-color: rgb(39, 38, 36);
+} 
+.contact-address{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+
+
+}
+
+.social-icon{
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+
+.Subscribe{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin: 20px;
+}
